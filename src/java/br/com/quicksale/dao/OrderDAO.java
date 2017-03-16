@@ -1,6 +1,5 @@
 package br.com.quicksale.dao;
 
-import br.com.quicksale.beans.Client;
 import br.com.quicksale.beans.Order;
 import br.com.quicksale.infrastructure.HibernateUtil;
 import java.util.List;
